@@ -65,7 +65,7 @@ streamlit run app.py
 
 ## 📬 Contact
 
-**Developer:** Harish  
+**Developer:** Harish H Kulkarni  
 **Email:** kulkarniharish4102000@gmail.com
 
 ---
